@@ -32,12 +32,12 @@ function Footer() {
                     </a>
                 </li>
                 <li>
-                    <a href="" rel="noreferrer" target="_blank">
+                    <a href="https://twitter.com/goelparas31" rel="noreferrer" target="_blank">
                         <p>Twitter</p>
                     </a>
                 </li>
                 <li>
-                    <a href="" rel="noreferrer" target="_blank">
+                    <a href="https://instagram.com/parasgoel31?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D" rel="noreferrer" target="_blank">
                         <p>Instagram</p>
                     </a>
                 </li>
